@@ -125,7 +125,6 @@ INSERT INTO public.elements VALUES (5, 'B', 'Boron');
 INSERT INTO public.elements VALUES (6, 'C', 'Carbon');
 INSERT INTO public.elements VALUES (7, 'N', 'Nitrogen');
 INSERT INTO public.elements VALUES (8, 'O', 'Oxygen');
-INSERT INTO public.elements VALUES (1000, 'Mt', 'moTanium');
 INSERT INTO public.elements VALUES (9, 'F', 'Fluorine');
 INSERT INTO public.elements VALUES (10, 'Ne', 'Neon');
 
@@ -134,7 +133,6 @@ INSERT INTO public.elements VALUES (10, 'Ne', 'Neon');
 -- Data for Name: properties; Type: TABLE DATA; Schema: public; Owner: freecodecamp
 --
 
-INSERT INTO public.properties VALUES (1000, 'metalloid', 1, 10, 100, 1);
 INSERT INTO public.properties VALUES (5, 'metalloid', 10.81, 2075, 4000, 1);
 INSERT INTO public.properties VALUES (4, 'metal', 9.0122, 1287, 2470, 2);
 INSERT INTO public.properties VALUES (3, 'metal', 6.94, 180.54, 1342, 2);
